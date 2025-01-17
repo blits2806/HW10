@@ -1,0 +1,10 @@
+[href^="https"] {
+  color: red;
+}
+.list + p {
+  font-size: 24px;
+  color: var(--mono);
+}
+:root {
+  --mono: gray;
+}
